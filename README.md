@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I’m Trí 👋
+# Hello,  I’m Trí 👋
 
 ### Computer Science student · aspiring AI Engineer
 
@@ -22,19 +22,18 @@ Outside the code, I’m a curious person who enjoys asking “how does this work
 
 ## Things I’m exploring
 
-- 🤖 The path toward AI Engineering and practical AI applications
-- 🌐 Frontend development with **React, TypeScript, and Vite**
-- 🧠 Computer Science fundamentals and problem solving
-- 🛠️ Learning by building, breaking, and improving projects
+- The path toward AI Engineering and practical AI applications
+- Frontend development with **React, TypeScript, and Vite**
+- Computer Science fundamentals and problem solving
+- Learning by building, breaking, and improving projects
 
 ## Projects
 
 A few public repositories from my learning journey: 
 
-- 🌱 [My personal portfolio](https://github.com/CyrusHo7/Myself_Portfolio) — my little corner of the web to share projects and progress.
-- 🧪 [To1-MRI-HoangTri](https://github.com/CyrusHo7/To1-MRI-HoangTri) — a project from my university journey.
-- 🚗 [CarSale](https://github.com/CyrusHo7/CarSale) — a web project exploring a car sales experience.
-- 📚 [Docs_EDU](https://github.com/CyrusHo7/Docs_EDU) — another project in my collection.
+- 📍 [To1-MRI-HoangTri](https://github.com/CyrusHo7/To1-MRI-HoangTri) — a project from my university journey.
+- 📍 [CarSale](https://github.com/CyrusHo7/CarSale) — a web project exploring a car sales experience.
+- 📍 [Docs_EDU](https://github.com/CyrusHo7/Docs_EDU) — another project in my collection.
 
 ## My current toolkit
 
@@ -46,8 +45,8 @@ A few public repositories from my learning journey:
 
 - 🎓 Computer Science student at TDTU
 - 📍 Vietnam
-- ☕ Probably fueled by curiosity (and sometimes coffee)
-- 🌱 Learning in public, one small step at a time
+- 📍Probably fueled by curiosity
+- 📍 Learning in public, one small step at a time
 
 ---
 
